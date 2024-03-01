@@ -1,2 +1,2 @@
 # Pong-Game
-python mini project
+Python Games
